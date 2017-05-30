@@ -21,8 +21,8 @@ class ViewController: UIViewController {
         let cityL = self.view.viewWithTag(102) as! UILabel
         let img = self.view.viewWithTag(103) as! UIImageView
         nameL.text = name!
-        countryL.text = country!
-        cityL.text = city!
+        countryL.text = "Country : " + country!
+        cityL.text = "City : " + city!
         self.title = IATA!
         img.image = UIImage(named: "Airports Data/"+IATA!+".jpg")
     }
