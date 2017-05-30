@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Airport</key>
+		<string>Munich Airport</string>
+		<key>Country</key>
+		<string>Germany</string>
+		<key>IATA</key>
+		<string>MUC</string>
+		<key>ServedCity</key>
+		<string>Munich</string>
+		<key>ShortName</key>
+		<string>Munich Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Kuala Lumpur International Airport</string>
+		<key>Country</key>
+		<string>Malaysia</string>
+		<key>IATA</key>
+		<string>KUL</string>
+		<key>ServedCity</key>
+		<string>Kuala Lumpur</string>
+		<key>ShortName</key>
+		<string>Kuala Lumpur Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Washington Dulles International Airport</string>
+		<key>Country</key>
+		<string>United States</string>
+		<key>IATA</key>
+		<string>IAD</string>
+		<key>ServedCity</key>
+		<string>Washington D.C.</string>
+		<key>ShortName</key>
+		<string>Washington Dulles Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>George Bush Intercontinental Airport</string>
+		<key>Country</key>
+		<string>United States</string>
+		<key>IATA</key>
+		<string>IAH</string>
+		<key>ServedCity</key>
+		<string>Houston</string>
+		<key>ShortName</key>
+		<string>George Bush Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Chicago O'Hare International Airport</string>
+		<key>Country</key>
+		<string>United States</string>
+		<key>IATA</key>
+		<string>ORD</string>
+		<key>ServedCity</key>
+		<string>Chicago</string>
+		<key>ShortName</key>
+		<string>O'Hare Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Taipei Songshan Airport</string>
+		<key>Country</key>
+		<string>Taiwan</string>
+		<key>IATA</key>
+		<string>TSA</string>
+		<key>ServedCity</key>
+		<string>Taipei</string>
+		<key>ShortName</key>
+		<string>Songshan Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Sydney Airport</string>
+		<key>Country</key>
+		<string>Australia</string>
+		<key>IATA</key>
+		<string>SYD</string>
+		<key>ServedCity</key>
+		<string>Sydney</string>
+		<key>ShortName</key>
+		<string>Sydney Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Vancouver International Airport</string>
+		<key>Country</key>
+		<string>Canada</string>
+		<key>IATA</key>
+		<string>YVR</string>
+		<key>ServedCity</key>
+		<string>Vancouver</string>
+		<key>ShortName</key>
+		<string>Vancouver Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Toronto Pearson International Airport</string>
+		<key>Country</key>
+		<string>Canada</string>
+		<key>IATA</key>
+		<string>YYZ</string>
+		<key>ServedCity</key>
+		<string>Toronto</string>
+		<key>ShortName</key>
+		<string>Toronto Pearson Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Beijing Capital International Airport</string>
+		<key>Country</key>
+		<string>China</string>
+		<key>IATA</key>
+		<string>PEK</string>
+		<key>ServedCity</key>
+		<string>Beijing</string>
+		<key>ShortName</key>
+		<string>Beijing Capital Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Shanghai Pudong International Airport</string>
+		<key>Country</key>
+		<string>China</string>
+		<key>IATA</key>
+		<string>PVG</string>
+		<key>ServedCity</key>
+		<string>Shanghai</string>
+		<key>ShortName</key>
+		<string>Pudong Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Guangzhou Baiyun International Airport</string>
+		<key>Country</key>
+		<string>China</string>
+		<key>IATA</key>
+		<string>CAN</string>
+		<key>ServedCity</key>
+		<string>Guangzhou</string>
+		<key>ShortName</key>
+		<string>Baiyun Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Chongqing Jiangbei International Airport</string>
+		<key>Country</key>
+		<string>China</string>
+		<key>IATA</key>
+		<string>CKG</string>
+		<key>ServedCity</key>
+		<string>Chongqing</string>
+		<key>ShortName</key>
+		<string>Jiangbei Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Paris Charles de Gaulle Airport</string>
+		<key>Country</key>
+		<string>France</string>
+		<key>IATA</key>
+		<string>CDG</string>
+		<key>ServedCity</key>
+		<string>Paris</string>
+		<key>ShortName</key>
+		<string>Charles de Gaulle Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Frankfurt Airport</string>
+		<key>Country</key>
+		<string>Germany</string>
+		<key>IATA</key>
+		<string>FRA</string>
+		<key>ServedCity</key>
+		<string>Frankfurt am Main</string>
+		<key>ShortName</key>
+		<string>Frankfurt Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Hong Kong International Airport</string>
+		<key>Country</key>
+		<string>Hong Kong</string>
+		<key>IATA</key>
+		<string>HKG</string>
+		<key>ServedCity</key>
+		<string>Hong Kong</string>
+		<key>ShortName</key>
+		<string>Hong Kong Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Narita International Airport</string>
+		<key>Country</key>
+		<string>Japan</string>
+		<key>IATA</key>
+		<string>NRT</string>
+		<key>ServedCity</key>
+		<string>Tokyo</string>
+		<key>ShortName</key>
+		<string>Narita Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Haneda International Airport</string>
+		<key>Country</key>
+		<string>Japan</string>
+		<key>IATA</key>
+		<string>HND</string>
+		<key>ServedCity</key>
+		<string>Tokyo</string>
+		<key>ShortName</key>
+		<string>Haneda Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Kansai International Airport</string>
+		<key>Country</key>
+		<string>Japan</string>
+		<key>IATA</key>
+		<string>KIX</string>
+		<key>ServedCity</key>
+		<string>Osaka</string>
+		<key>ShortName</key>
+		<string>Kansai Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Chubu Centrair International Airport</string>
+		<key>Country</key>
+		<string>Japan</string>
+		<key>IATA</key>
+		<string>NGO</string>
+		<key>ServedCity</key>
+		<string>Nagoya</string>
+		<key>ShortName</key>
+		<string>Chubu Centrair Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Naha Airport</string>
+		<key>Country</key>
+		<string>Japan</string>
+		<key>IATA</key>
+		<string>OKA</string>
+		<key>ServedCity</key>
+		<string>Naha</string>
+		<key>ShortName</key>
+		<string>Naha Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>New Chitose Airport</string>
+		<key>Country</key>
+		<string>Japan</string>
+		<key>IATA</key>
+		<string>CTS</string>
+		<key>ServedCity</key>
+		<string>Sapporo</string>
+		<key>ShortName</key>
+		<string>New Chitose Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Amsterdam Airport Schiphol</string>
+		<key>Country</key>
+		<string>Netherlands</string>
+		<key>IATA</key>
+		<string>AMS</string>
+		<key>ServedCity</key>
+		<string>Amsterdam</string>
+		<key>ShortName</key>
+		<string>Amsterdam Airport Schiphol</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Changi International Airport</string>
+		<key>Country</key>
+		<string>Singapore</string>
+		<key>IATA</key>
+		<string>SIN</string>
+		<key>ServedCity</key>
+		<string>Singapore</string>
+		<key>ShortName</key>
+		<string>Changi Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Incheon International Airport</string>
+		<key>Country</key>
+		<string>South Korea</string>
+		<key>IATA</key>
+		<string>ICN</string>
+		<key>ServedCity</key>
+		<string>Seoul</string>
+		<key>ShortName</key>
+		<string>Incheon Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Taiwan Taoyuan International Airport</string>
+		<key>Country</key>
+		<string>Taiwan</string>
+		<key>IATA</key>
+		<string>TPE</string>
+		<key>ServedCity</key>
+		<string>Taipei</string>
+		<key>ShortName</key>
+		<string>Taiwan Taoyuan Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Kaohsiung International Airport</string>
+		<key>Country</key>
+		<string>Taiwan</string>
+		<key>IATA</key>
+		<string>KHH</string>
+		<key>ServedCity</key>
+		<string>Kaohsiung</string>
+		<key>ShortName</key>
+		<string>Kaohsiung Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Suvarnabhumi Airport</string>
+		<key>Country</key>
+		<string>Thailand</string>
+		<key>IATA</key>
+		<string>BKK</string>
+		<key>ServedCity</key>
+		<string>Bangkok</string>
+		<key>ShortName</key>
+		<string>Suvarnabhumi Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>London Heathrow Airport</string>
+		<key>Country</key>
+		<string>United Kingdom</string>
+		<key>IATA</key>
+		<string>LHR</string>
+		<key>ServedCity</key>
+		<string>London</string>
+		<key>ShortName</key>
+		<string>London Heathrow Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>San Francisco International Airport</string>
+		<key>Country</key>
+		<string>United States</string>
+		<key>IATA</key>
+		<string>SFO</string>
+		<key>ServedCity</key>
+		<string>San Francisco, CA</string>
+		<key>ShortName</key>
+		<string>San Francisco Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Los Angeles International Airport</string>
+		<key>Country</key>
+		<string>United States</string>
+		<key>IATA</key>
+		<string>LAX</string>
+		<key>ServedCity</key>
+		<string>Log Angeles, CA</string>
+		<key>ShortName</key>
+		<string>Los Angeles Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>John F. Kennedy International Airport</string>
+		<key>Country</key>
+		<string>United States</string>
+		<key>IATA</key>
+		<string>JFK</string>
+		<key>ServedCity</key>
+		<string>New York, NY</string>
+		<key>ShortName</key>
+		<string>John F. Kennedy Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Seattle Tacoma International Airport</string>
+		<key>Country</key>
+		<string>United States</string>
+		<key>IATA</key>
+		<string>SEA</string>
+		<key>ServedCity</key>
+		<string>Seattle, WA</string>
+		<key>ShortName</key>
+		<string>Seattle Tacoma Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Hartsfield-Jackson Atlanta International Airport</string>
+		<key>Country</key>
+		<string>United States</string>
+		<key>IATA</key>
+		<string>ATL</string>
+		<key>ServedCity</key>
+		<string>Atlanta, GA</string>
+		<key>ShortName</key>
+		<string>Atlanta Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Detroit Metropolitan Wayne County Airport</string>
+		<key>Country</key>
+		<string>United States</string>
+		<key>IATA</key>
+		<string>DTW</string>
+		<key>ServedCity</key>
+		<string>Detroit, MI</string>
+		<key>ShortName</key>
+		<string>Detroit Metro Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Sheremetyevo International Airport</string>
+		<key>Country</key>
+		<string>Russia</string>
+		<key>IATA</key>
+		<string>SVO</string>
+		<key>ServedCity</key>
+		<string>Moscow</string>
+		<key>ShortName</key>
+		<string>Sheremetyevo Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Domodedovo International Airport</string>
+		<key>Country</key>
+		<string>Russia</string>
+		<key>IATA</key>
+		<string>DME</string>
+		<key>ServedCity</key>
+		<string>Moscow</string>
+		<key>ShortName</key>
+		<string>Domodedovo Int'l Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Edinburgh Airport</string>
+		<key>Country</key>
+		<string>United Kingdom</string>
+		<key>IATA</key>
+		<string>EDI</string>
+		<key>ServedCity</key>
+		<string>Edinburgh</string>
+		<key>ShortName</key>
+		<string>Edinburgh Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Gimpo International Airport</string>
+		<key>Country</key>
+		<string>South Korea</string>
+		<key>IATA</key>
+		<string>GMP</string>
+		<key>ServedCity</key>
+		<string>Seoul</string>
+		<key>ShortName</key>
+		<string>Gimpo Airport</string>
+	</dict>
+	<dict>
+		<key>Airport</key>
+		<string>Ninoy Aquino International Airport</string>
+		<key>Country</key>
+		<string>Philippines</string>
+		<key>IATA</key>
+		<string>MNL</string>
+		<key>ServedCity</key>
+		<string>Manila</string>
+		<key>ShortName</key>
+		<string>Manila International Airport</string>
+	</dict>
+</array>
+</plist>
